@@ -84,22 +84,6 @@ Currently exploring **remote internships and junior data science roles** where I
 
 ---
 
-## Core Competencies
-
-**Machine Learning**
-![90%](https://progress-bar.dev/90)
-
-**Data Engineering**
-![75%](https://progress-bar.dev/75)
-
-**Backend Development**
-![80%](https://progress-bar.dev/80)
-
-**Data Visualization**
-![85%](https://progress-bar.dev/85)
-
----
-
 <img src="https://img.shields.io/badge/Looking%20for-Remote%20Internships-brightgreen?style=for-the-badge" />
 
 ---
