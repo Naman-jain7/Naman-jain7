@@ -45,7 +45,7 @@ Currently exploring **remote internships and junior data science roles** where I
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Naman-jain7&theme=nord&hide_border=false" alt="Streak Stats" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Naman-jain7&theme=synthwave&hide_border=false" alt="Activity Graph" width="48%" />
 </p>
 
 ---
