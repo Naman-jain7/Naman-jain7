@@ -1,67 +1,123 @@
-# Hey, I'm Naman 👋
+# 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&background=FFFFFF00&lines=Data+Scientist+%F0%9F%9A%80;Building+ML+Solutions;Python+%2B+TensorFlow;Always+Learning" alt="Typing SVG" />
 
-**Data scientist building ML solutions that actually work. Always learning, always shipping.**
+<p align="center">
+  <a href="https://linkedin.com/in/naman-jain-1091232a6">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/namanjain5039">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:nj323875@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Naman-jain7&color=blue)
 
 ---
 
 ## About Me
 
-I'm an aspiring data scientist passionate about turning raw data into actionable insights. I love working on end-to-end ML projects—from data wrangling and model training to deployment. I get excited about optimization problems, interpretable models, and building systems that scale.
+Data scientist passionate about turning raw data into actionable insights. I love building end-to-end ML projects—from data wrangling and model training to deployment in production. Excited about optimization problems, interpretable models, and systems that scale.
 
-Currently exploring remote opportunities and internships where I can contribute meaningfully while learning from experienced teams.
-
-**Let's connect:** [LinkedIn](https://linkedin.com/in/naman-jain-1091232a6) · [Email](mailto:nj323875@gmail.com) · [Instagram](https://instagram.com/namanjain5039)
+Currently exploring **remote internships and junior data science roles** where I can contribute meaningfully while learning from experienced teams.
 
 ---
 
-## 🎯 What I'm Good At
+## 🛠️ Core Tech Stack
 
-**Core Skills:**
-- **Data Science:** ML modeling (TensorFlow, PyTorch, scikit-learn), feature engineering, EDA
-- **Data Engineering:** ETL pipelines, SQL/NoSQL databases (PostgreSQL, MongoDB, SQLite), data processing (Pandas, NumPy)
-- **Deployment:** FastAPI backends, Streamlit dashboards, Docker, Nginx, Vercel/Render hosting
-- **Languages:** Python, C++, R
-
-I'm not claiming to be an expert in 40 frameworks. These are the tools I've actually used to ship projects.
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
-## 🚀 Projects That Matter
+## 📊 GitHub Stats
 
-### [Project 1: Predictive Analytics System](https://github.com/Naman-jain7/project-1)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Naman-jain7&theme=nord&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naman-jain7&theme=nord&hide_border=false&layout=compact" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Naman-jain7&theme=nord&hide_border=false" alt="Streak Stats" width="48%" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🔬 [Project 1: Predictive Analytics System](https://github.com/Naman-jain7/project-1)
 Built an end-to-end ML pipeline for [problem description]. Model achieves [X% accuracy/metric]. Deployed with FastAPI + React frontend.
 
-**Tech:** Python, TensorFlow, PostgreSQL, FastAPI, React  
-**Key takeaway:** [1-2 sentence on what you learned or impact achieved]
+**Tech:** Python • TensorFlow • PostgreSQL • FastAPI • React  
+**Key Learning:** [1-2 sentence on what you learned]
 
-[View Code](https://github.com/Naman-jain7/project-1) · [Live Demo](https://project-1-demo.vercel.app)
+[View Code](https://github.com/Naman-jain7/project-1) • [Live Demo](https://project-1-demo.vercel.app)
 
 ---
 
-### [Project 2: Computer Vision Pipeline](https://github.com/Naman-jain7/project-2)
+### 🎨 [Project 2: Computer Vision Pipeline](https://github.com/Naman-jain7/project-2)
 Developed [specific CV task—detection, classification, segmentation?] using OpenCV + PyTorch. Processed [X dataset], achieved [metric]. Built Streamlit dashboard for real-time inference.
 
-**Tech:** Python, PyTorch, OpenCV, Streamlit, Render  
-**Key takeaway:** [What you optimized or built differently]
+**Tech:** Python • PyTorch • OpenCV • Streamlit • Render  
+**Key Learning:** [What you optimized or built differently]
 
-[View Code](https://github.com/Naman-jain7/project-2) · [Interactive Demo](https://project-2-streamlit.herokuapp.com)
+[View Code](https://github.com/Naman-jain7/project-2) • [Interactive Demo](https://project-2-streamlit.herokuapp.com)
 
 ---
 
-### [Project 3: Data Analytics Dashboard](https://github.com/Naman-jain7/project-3)
+### 📈 [Project 3: Data Analytics Dashboard](https://github.com/Naman-jain7/project-3)
 Analyzed [dataset] and built interactive visualizations revealing [key insight]. Dashboard used for [use case/decision-making].
 
-**Tech:** Python, Pandas, Plotly, Streamlit, SQLite  
-**Key takeaway:** [Business impact or technical insight]
+**Tech:** Python • Pandas • Plotly • Streamlit • SQLite  
+**Key Learning:** [Business impact or technical insight]
 
-[View Code](https://github.com/Naman-jain7/project-3) · [Dashboard](https://project-3-dashboard.vercel.app)
+[View Code](https://github.com/Naman-jain7/project-3) • [Dashboard](https://project-3-dashboard.vercel.app)
 
 ---
 
 ## 🔧 Currently Building
 
-**[Current Project Name]** – [1-2 sentence description of what you're working on and why]  
-*Stack: [relevant tech] | Status: [In progress / beta]*
+**[Current Project Name]** – [1-2 sentence description of what you're working on]  
+*Stack: [relevant tech] | Status: In progress*
+
+---
+
+## 📚 What I'm Learning Right Now
+
+- Advanced transformer architectures
+- Production ML systems
+- Data engineering best practices
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Naman-jain7&theme=nord&no-bg=true&no-frame=true&row=1&column=4" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 💬 Let's Connect
+
+**Looking for:** Remote internships or junior data science roles  
+**Open to:** Freelance ML projects, collaborations, interesting data problems  
+**Get in touch:**
+- 📧 [Email](mailto:nj323875@gmail.com)
+- 💼 [LinkedIn](https://linkedin.com/in/naman-jain-1091232a6)
+- 📸 [Instagram](https://instagram.com/namanjain5039)
+
+---
+
+<p align="center">
+  <i>Built with curiosity and coffee ☕</i>
+</p>
 
 ---
 
