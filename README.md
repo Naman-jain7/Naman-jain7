@@ -1,6 +1,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:4ECDC4&height=200&section=header&text=Naman%20Jain&fontSize=80&fontColor=fff)
 
-# AI/ML Engineer | Generative AI Enthusiast
+# Data Scientist | Generative AI Developer | Exploring AI's Frontiers
 
 <p align="center">
   <a href="https://naman-jain7.github.io/portfolio/">
@@ -58,15 +58,21 @@ Currently exploring **remote internships and junior data science roles** where I
 
 ## 📊 GitHub Stats
 
-[![Naman's GitHub stats](https://github-stats-extended.vercel.app/api?username=Naman-jain7)](https://github.com/stats-organization/github-stats-extended)
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=Naman-jain7&show_icons=true&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="50%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Naman-jain7&theme=dracula&hide_border=false&layout=compact" alt="Top Languages" width="48%" />
+</p>
 
----
-
-## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Naman-jain7&theme=nord&no-bg=true&no-frame=true&row=1&column=4" alt="GitHub Trophies" />
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Naman-jain7&repo=project-name&theme=dracula" alt="Featured Repo" width="48%" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Naman-jain7&theme=dracula&no-bg=true&no-frame=true&margin-w=15&row=1&column=9" alt="GitHub Achievements" />
+</p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Naman-jain7&color=orange&style=for-the-badge&label=PROFILE+VIEWS)
 
 ---
 
