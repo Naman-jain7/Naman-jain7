@@ -64,15 +64,11 @@ Currently exploring **remote internships and junior data science roles** where I
 </p>
 
 
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Naman-jain7&repo=project-name&theme=dracula" alt="Featured Repo" width="48%" />
-</p>
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=Naman-jain7&repo=Microgrid-Efficiency-System&theme=dracula" alt="Featured Repo" />
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Naman-jain7&theme=dracula&no-bg=true&no-frame=true&margin-w=15&row=1&column=9" alt="GitHub Achievements" />
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=Naman-jain7&theme=dracula&no-bg=false&no-frame=false&margin-w=4&row=1&column=6" alt="GitHub Trophies" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=Naman-jain7&color=orange&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://img.shields.io/badge/Profile%20Views-43780-orange?style=flat-square&labelColor=1f1f1f)
 
 ---
 
