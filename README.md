@@ -36,6 +36,7 @@ Currently exploring **remote internships and junior data science roles** where I
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 
 ### 🤖 AI/ML & Deep Learning
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
@@ -57,18 +58,7 @@ Currently exploring **remote internships and junior data science roles** where I
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Naman-jain7&theme=nord&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naman-jain7&theme=nord&hide_border=false&layout=compact" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Naman-jain7&theme=synthwave&hide_border=false" alt="Activity Graph" width="48%" />
-</p>
-
----
-
-<img src="https://img.shields.io/badge/Looking%20for-Remote%20Internships-brightgreen?style=for-the-badge" />
+[![Naman's GitHub stats](https://github-stats-extended.vercel.app/api?username=Naman-jain7)](https://github.com/stats-organization/github-stats-extended)
 
 ---
 
@@ -82,8 +72,6 @@ Currently exploring **remote internships and junior data science roles** where I
 
 ## 💬 Let's Connect
 
-**Looking for:** Remote internships or junior data science roles  
-**Open to:** Freelance ML projects, collaborations, interesting data problems  
 **Get in touch:**
 - 📧 [Email](mailto:nj323875@gmail.com)
 - 💼 [LinkedIn](https://linkedin.com/in/naman-jain-1091232a6)
