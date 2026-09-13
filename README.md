@@ -59,15 +59,19 @@ Currently exploring **remote internships and junior data science roles** where I
 ## 📊 GitHub Stats
 
 <p align="center">
+  <!-- github stats -->
   <img src="https://github-stats-extended.vercel.app/api?username=Naman-jain7&show_icons=true&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="50%" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Naman-jain7&theme=dracula&hide_border=false&layout=compact" alt="Top Languages" width="48%" />
+  <!-- top languages -->
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Naman-jain7&theme=dracula&hide_border=false&langs_count=5&layout=compact" alt="Top Languages" width="48%" />
 </p>
 
+<!-- special project -->
+<!-- <img src="https://github-stats-extended.vercel.app/api/pin/?username=Naman-jain7&repo=Microgrid-Efficiency-System&theme=dracula" alt="Featured Repo" /> -->
 
-<img src="https://github-stats-extended.vercel.app/api/pin/?username=Naman-jain7&repo=Microgrid-Efficiency-System&theme=dracula" alt="Featured Repo" />
+<!-- trophies -->
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=Naman-jain7&theme=dracula&no-bg=false&no-frame=false&margin-w=4&row=1&column=6" alt="GitHub Trophies" /> -->
 
-<img src="https://github-profile-trophy.vercel.app/?username=Naman-jain7&theme=dracula&no-bg=false&no-frame=false&margin-w=4&row=1&column=6" alt="GitHub Trophies" />
-
+<!-- profile views -->
 ![Profile Views](https://img.shields.io/badge/Profile%20Views-43780-orange?style=flat-square&labelColor=1f1f1f)
 
 ---
