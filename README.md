@@ -59,8 +59,8 @@ Currently exploring **remote internships and junior data science roles** where I
 ## 📊 GitHub Stats
 
 <p align="center" width="100%">
-  <img height="200" src="https://github-stats-extended.vercel.app/api?username=Naman-jain7&show_icons=true&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" />
-  <img height="200" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Naman-jain7&theme=dracula&hide_border=false&langs_count=5&layout=compact" />
+  <img height="200" src="https://github-stats-extended.vercel.app/api?username=Naman-jain7&show_icons=true&theme=nord&hide_border=false&include_all_commits=true&count_private=true" />
+  <img height="200" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Naman-jain7&theme=nord&hide_border=false&langs_count=5&layout=compact" />
 </p>
 
 <!-- special project -->
